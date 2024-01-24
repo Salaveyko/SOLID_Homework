@@ -1,5 +1,8 @@
 package com.solid.srp;
 
+import com.solid.srp.entity.Author;
+import com.solid.srp.entity.Book;
+
 /**
  * Single-Responsibility Principle
  * A module should be responsible to one, and only one, actor.

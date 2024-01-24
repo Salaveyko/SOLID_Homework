@@ -1,4 +1,9 @@
-package com.solid.dip;
+package com.solid.dip.factories;
+
+import com.solid.dip.Interfaces.DatabaseConnection;
+import com.solid.dip.enumerations.DatabaseType;
+import com.solid.dip.impl.MySqlConnection;
+import com.solid.dip.impl.PostgreSqlConnection;
 
 public class DataBaseConnectionFactory {
     public static DatabaseConnection connect(DatabaseType dbType) {

@@ -1,4 +1,6 @@
-package com.solid.dip;
+package com.solid.dip.impl;
+
+import com.solid.dip.Interfaces.DatabaseConnection;
 
 public class PostgreSqlConnection implements DatabaseConnection {
     @Override

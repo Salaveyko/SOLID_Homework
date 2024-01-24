@@ -1,5 +1,8 @@
 package com.solid.isp;
 
+import com.solid.isp.implementations.*;
+import com.solid.isp.interfaces.*;
+
 /**
  * Interface Segregation Principle
  * A client should never be forced to implement an interface that it doesn’t use,

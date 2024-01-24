@@ -1,5 +1,7 @@
 package com.solid.ocp;
 
+import com.solid.ocp.entity.Human;
+
 /**
  * Open-Closed Principle
  * Software entities should be open for extension, but closed for modification.

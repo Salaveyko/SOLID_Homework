@@ -1,4 +1,6 @@
-package com.solid.isp;
+package com.solid.isp.implementations;
+
+import com.solid.isp.interfaces.CircleDrawer;
 
 public class CircleDrawerImpl implements CircleDrawer {
     @Override

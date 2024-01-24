@@ -1,4 +1,6 @@
-package com.solid.isp;
+package com.solid.isp.implementations;
+
+import com.solid.isp.interfaces.RectangleDrawer;
 
 public class RectangleDrawerImpl implements RectangleDrawer {
     @Override

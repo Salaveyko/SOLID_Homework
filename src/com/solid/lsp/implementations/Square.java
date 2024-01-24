@@ -1,4 +1,6 @@
-package com.solid.lsp;
+package com.solid.lsp.implementations;
+
+import com.solid.lsp.interfaces.Shape;
 
 public class Square implements Shape {
     private double a;

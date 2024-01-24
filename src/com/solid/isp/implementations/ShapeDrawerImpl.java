@@ -1,4 +1,6 @@
-package com.solid.isp;
+package com.solid.isp.implementations;
+
+import com.solid.isp.interfaces.ShapeDrawer;
 
 public class ShapeDrawerImpl implements ShapeDrawer {
     @Override

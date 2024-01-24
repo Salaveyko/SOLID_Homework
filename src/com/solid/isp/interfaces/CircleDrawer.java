@@ -1,4 +1,4 @@
-package com.solid.isp;
+package com.solid.isp.interfaces;
 
 public interface CircleDrawer {
     void drawCircle();

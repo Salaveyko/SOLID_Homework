@@ -1,4 +1,4 @@
-package com.solid.ocp;
+package com.solid.ocp.entity;
 
 public class Human {
     private String firstname;

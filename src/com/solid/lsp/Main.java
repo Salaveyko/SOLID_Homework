@@ -1,5 +1,10 @@
 package com.solid.lsp;
 
+import com.solid.lsp.implementations.Rectangle;
+import com.solid.lsp.implementations.Square;
+import com.solid.lsp.implementations.Triangle;
+import com.solid.lsp.interfaces.Shape;
+
 /**
  * Liskov Substitution Principle
  * Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable

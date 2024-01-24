@@ -1,4 +1,4 @@
-package com.solid.srp;
+package com.solid.srp.entity;
 
 public class Author {
     private String name;

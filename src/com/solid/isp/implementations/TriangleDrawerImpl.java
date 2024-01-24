@@ -1,4 +1,6 @@
-package com.solid.isp;
+package com.solid.isp.implementations;
+
+import com.solid.isp.interfaces.TriangleDrawer;
 
 public class TriangleDrawerImpl implements TriangleDrawer {
     @Override
